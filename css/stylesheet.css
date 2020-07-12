@@ -11,13 +11,13 @@ h1{
 section{
 	border:1px solid black;
 	width: 95%;
-	height: 250px;
+	height: 200px;
 	margin-left: auto;
 	margin-right: auto;
 	margin-bottom: 20px;
 	position: relative;
 	background-color:#e6e6ff;
-	overflow: auto;
+	overflow: hidden;
 }
 
 p{
